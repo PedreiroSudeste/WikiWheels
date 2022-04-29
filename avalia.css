@@ -1,0 +1,90 @@
+.btnAvaliar1{
+	border-radius:28px;
+	border:1px solid #c7c7c7;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+
+}
+.btnAvaliar1:hover {
+	background-color: blanchedalmond;
+}
+.btnAvaliar1:active {
+    background-color: blue;
+}
+.btnAvaliar2{
+	border-radius:28px;
+	border:1px solid #c7c7c7;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+
+}
+.btnAvaliar2:hover {
+	background-color: blanchedalmond;
+}
+.btnAvaliar2:active {
+    background-color: blue;
+}
+.btnAvaliar3{
+
+	border-radius:28px;
+	border:1px solid #c7c7c7;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+
+}
+.btnAvaliar3:hover {
+	background-color: blanchedalmond;
+}
+.btnAvaliar3:active {
+    background-color: blue;
+}
+.btnAvaliar4{
+	border-radius:28px;
+	border:1px solid #c7c7c7;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+
+}
+.btnAvaliar4:hover {
+	background-color: blanchedalmond;
+}
+.btnAvaliar4:active {
+    background-color: blue;
+}
+.btnAvaliar5{
+	border-radius:28px;
+	border:1px solid #c7c7c7;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+}
+.btnAvaliar5:hover {
+	background-color: blanchedalmond;
+}
+.btnAvaliar5:active {
+    background-color: blue;
+}
